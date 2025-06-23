@@ -3,9 +3,8 @@
 <img src="https://github.com/user-attachments/assets/35d9b13f-5668-42c3-a3ed-ec5b5269ebc7" alt="Coding GIF" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munna764592&label=Profile%20views&color=0e75b6&style=flat" alt="munna764592" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munna764592" alt="munna764592" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mckey0x1" alt="mckey0x1" /></a> </p>
 
 - 🌱 I’m currently learning **ML/AI**
 
